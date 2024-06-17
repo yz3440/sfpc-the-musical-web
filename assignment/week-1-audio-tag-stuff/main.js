@@ -34,6 +34,7 @@ material.side = THREE.DoubleSide;
 // assign the panorama image as a texture
 const texture = new THREE.TextureLoader().load(
   './assets/ab61d8a3-b71b-4100-8898-4ba4dbc35e8e.jpg'
+  // './assets/f031e999-b621-41f8-8fa7-1e237fab44e3.jpg'
 );
 material.map = texture;
 const cube = new THREE.Mesh(geometry, material);
