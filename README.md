@@ -4,4 +4,4 @@ My sketches and assignments for the class [The Musical Web](https://sfpc.study/s
 
 ## assignments
 
-- [Assignment 1](assignments/week-1-audio-tag-stuff): Audio tag stuff
+- [Assignment 1](assignment/week-1-audio-tag-stuff): Audio tag stuff
